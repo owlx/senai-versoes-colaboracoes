@@ -7,3 +7,4 @@ readme de exemplo
 uma pequena alteração
 
 lembrei do comando: git commit
+lembrei do comando: git status
